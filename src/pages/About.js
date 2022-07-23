@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./About.css";
-import profile_pic from "../assets/profile_pic.jpg";
+import profile_pic from "../assets/George Guardia Headshot.jpg";
 
 export default class About extends Component {
   render() {
@@ -18,10 +18,11 @@ export default class About extends Component {
         </div>
         <div className="split right">
           <div className="centered">
-            <div className="name_title">Your Name</div>
+            <div className="name_title">George Guardia</div>
             <div className="brief_description">
-              Tell us about yourself in a few sentences. Tell us your interests
-              and say a fun fact about yourself.
+            I am a student seeking Computer Science Degree, attending Florida International University. I am a strong leader and someone who is not scared to take charge. 
+            I am very passionate when it comes to developing and programming projects as well as working and building computers. 
+            In my position at ASI I have been able to expand my social skills and help struggling students in the field of computer science as well as develop my skills in frontend and backend development.
             </div>
           </div>
         </div>
